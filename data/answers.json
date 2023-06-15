@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quien interpuso la sentencia?",
+              "id": 1031489,
+              "answers": [],
+              "is_impossible": true
+            },
+            {
+              "question": "En que ciudad se radico la sentencia?",
+              "id": 1031492,
+              "answers": [
+                {
+                  "answer_id": 916254,
+                  "document_id": 1521709,
+                  "question_id": 1031492,
+                  "text": "veintitrés (23) de mayo de dos mil veintitrés (2023)",
+                  "answer_start": 13,
+                  "answer_end": 65,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Bogotá D.C., veintitrés (23) de mayo de dos mil veintitrés (2023).",
+          "document_id": 1521709
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Quien interpuso la sentencia?",
+              "id": 1031489,
+              "answers": [
+                {
+                  "answer_id": 916258,
+                  "document_id": 1521710,
+                  "question_id": 1031489,
+                  "text": "JOSÉ DANIEL BUITRAGO VEGA, y la FEDERACIÓN NACIONAL DE CAFETEROS DE COLOMBIA",
+                  "answer_start": 57,
+                  "answer_end": 133,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "En que ciudad se radico la sentencia?",
+              "id": 1031492,
+              "answers": [
+                {
+                  "answer_id": 916257,
+                  "document_id": 1521710,
+                  "question_id": 1031492,
+                  "text": "Bogotá",
+                  "answer_start": 255,
+                  "answer_end": 261,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Cuando se radico la sentencia?",
+              "id": 1031493,
+              "answers": [],
+              "is_impossible": true
+            }
+          ],
+          "context": "Decide la Sala los recursos de casación interpuestos por JOSÉ DANIEL BUITRAGO VEGA, y la FEDERACIÓN NACIONAL DE CAFETEROS DE COLOMBIA contra la sentencia proferida el 31 de agosto de 2017 por la Sala Laboral del Tribunal Superior del Distrito Judicial de Bogotá, dentro del proceso que el primero le sigue a la segunda, y a la empresa ASESORES EN DERECHO S.A.S., en calidad de mandataria con representación de la COMPAÑÍA DE INVERSIONES DE LA FLOTA MERCANTE (PANFLOTA); la SOCIEDAD ADMINISTRADORA DE FONDOS DE PENSIONES Y CESANTÍAS PORVENIR S.A.; la ADMINISTRADORA COLOMBIANA DE PENSIONES (COLPENSIONES); la FIDUCIARIA LA PREVISORA S.A. ",
+          "document_id": 1521710
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Como fue condenada  la FIDUCIARIA LA PREVISORA?",
+              "id": 1031511,
+              "answers": [
+                {
+                  "answer_id": 916327,
+                  "document_id": 1521714,
+                  "question_id": 1031511,
+                  "text": " CONDENAR a la FIDUCIARIA LA PREVISORA, en su calidad de vocera y administradora del PATRIMONIO AUTÓNOMO PANFLOTA a pagar el cálculo actuarial correspondiente a la ADMINISTRADORA COLOMBIANA DE PENSIONES COLPENSIONES",
+                  "answer_start": 157,
+                  "answer_end": 372,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "I.           SENTENCIA DE PRIMERA INSTANCIA El Juzgado Treinta Laboral del Circuito de Bogotá, mediante sentencia del 14 de marzo de 2017, resolvió: TERCERO: CONDENAR a la FIDUCIARIA LA PREVISORA, en su calidad de vocera y administradora del PATRIMONIO AUTÓNOMO PANFLOTA a pagar el cálculo actuarial correspondiente a la ADMINISTRADORA COLOMBIANA DE PENSIONES COLPENSIONES, con los recursos del patrimonio autónomo o en su defecto con los recursos que serán aportados por la FEDERACIÓN NACIONAL DE CAFETEROS como administradora del FONDO NACIONAL DEL CAFÉ a favor del demandante JOSÉ DANIEL BUITRAGO VEGA.",
+          "document_id": 1521714
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Que juzgado resolvio la sentencia de primera instancia",
+              "id": 1031494,
+              "answers": [
+                {
+                  "answer_id": 916262,
+                  "document_id": 1521711,
+                  "question_id": 1031494,
+                  "text": "El Juzgado Treinta Laboral del Circuito de Bogotá",
+                  "answer_start": 44,
+                  "answer_end": 93,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "I.           SENTENCIA DE PRIMERA INSTANCIA El Juzgado Treinta Laboral del Circuito de Bogotá, mediante sentencia del 14 de marzo de 2017, resolvió:  PRIMERO: Declárese vinculado al demandante señor JOSÉ DANIEL BUITRAGO VEGA al régimen de prima media con prestación definida administrado hoy por ADMINISTRADORA COLOMBIANA DE PENSIONES COLPENSIONES, conforme a lo expuesto.",
+          "document_id": 1521711
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Cual fue la condena en la primera instancia?",
+              "id": 1031498,
+              "answers": [
+                {
+                  "answer_id": 916266,
+                  "document_id": 1521712,
+                  "question_id": 1031498,
+                  "text": "la ADMINISTRADORA DE PENSIONES Y CESANTÍAS PORVENIR S.A. a devolver a la ADMINISTRADORA COLOMBIANA DE PENSIONES COLPENSIONES todos los valores de la cuenta de ahorro individual del señor JOSÉ DANIEL BUITRAGO VEGA,",
+                  "answer_start": 170,
+                  "answer_end": 383,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "I.           SENTENCIA DE PRIMERA INSTANCIA El Juzgado Treinta Laboral del Circuito de Bogotá, mediante sentencia del 14 de marzo de 2017, resolvió: SEGUNDO: Condénese a la ADMINISTRADORA DE PENSIONES Y CESANTÍAS PORVENIR S.A. a devolver a la ADMINISTRADORA COLOMBIANA DE PENSIONES COLPENSIONES todos los valores de la cuenta de ahorro individual del señor JOSÉ DANIEL BUITRAGO VEGA, junto con sus rendimientos y los costos cobrados por concepto de administración durante todo el tiempo que permaneció en el régimen de ahorro individual con solidaridad, conforme a lo expuesto.",
+          "document_id": 1521712
+        }
+      ]
+    }
+  ]
+}
